@@ -1,0 +1,2 @@
+C:\Users\SILA\source\repos\uml_5\uml_5\obj\Debug\uml_5.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\uml_5\uml_5\obj\Debug\uml_5.csproj.CoreCompileInputs.cache

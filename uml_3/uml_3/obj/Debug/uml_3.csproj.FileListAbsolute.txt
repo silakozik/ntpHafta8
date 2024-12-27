@@ -1,0 +1,7 @@
+C:\Users\SILA\source\repos\uml_3\uml_3\bin\Debug\uml_3.exe.config
+C:\Users\SILA\source\repos\uml_3\uml_3\bin\Debug\uml_3.exe
+C:\Users\SILA\source\repos\uml_3\uml_3\bin\Debug\uml_3.pdb
+C:\Users\SILA\source\repos\uml_3\uml_3\obj\Debug\uml_3.csprojAssemblyReference.cache
+C:\Users\SILA\source\repos\uml_3\uml_3\obj\Debug\uml_3.csproj.CoreCompileInputs.cache
+C:\Users\SILA\source\repos\uml_3\uml_3\obj\Debug\uml_3.exe
+C:\Users\SILA\source\repos\uml_3\uml_3\obj\Debug\uml_3.pdb
